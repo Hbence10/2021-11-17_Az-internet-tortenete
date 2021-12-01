@@ -15,8 +15,8 @@ color: #666584;
 #container {
 width: 600px;
 margin: auto;
-background-color: #5C6B7B;
-padding: 0 20px 0 20px;
+background-color: #5C6B7B ;
+padding: 10px 
 }
 
 /* Fejléc */
@@ -33,7 +33,7 @@ padding: 0 20px 0 20px;
 #nav {
 padding-bottom: 10px;
 	width: 600px;
-    background-color:#CDDBEB;
+background-color: #CDDBEB;
 }
 #nav ul {
     overflow: none;
