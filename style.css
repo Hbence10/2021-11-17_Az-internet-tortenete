@@ -43,6 +43,7 @@ background-color: #CDDBEB;
 
 #nav li {
     float: left;
+text-align: center;
 }
 
 #nav a {
@@ -50,6 +51,7 @@ background-color: #CDDBEB;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
+	width: 150px;
 }
 
 #nav a:hover {
