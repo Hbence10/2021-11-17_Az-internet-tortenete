@@ -77,6 +77,7 @@ padding: 10px;
 .center {
 	text-align: center;
     margin:auto
+	float: left;
 }
 
 .jobbra {
@@ -93,6 +94,10 @@ background-color: white;
 padding-bottom: 10px;
 }
 
-#kep 1 {
-	
+.akep {
+padding-left: 165px;
 }
+
+
+
+
